@@ -14,6 +14,11 @@ npm install fis-skip-release -g
 ### Import the module
 ```js
 fis.require('skip-release');
-
+```
+### Match the files that compile but not release
+```js
+fis.match('**/js/config/config.*.js', {
+    compileButNotRelease: true
+});
 ```
 ### That's all, enjoy it
