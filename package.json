@@ -1,6 +1,6 @@
 {
   "name": "fis-skip-release",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yog2/fis compile but not release",
   "main": "index.js",
   "scripts": {
