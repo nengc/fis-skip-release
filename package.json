@@ -1,0 +1,30 @@
+{
+  "name": "fis-skip-release",
+  "version": "1.0.0",
+  "description": "yog2/fis compile but not release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nengc/fis-skip-release.git"
+  },
+  "keywords": [
+    "yog2/fis",
+    "compile",
+    "but",
+    "not",
+    "release",
+    "can",
+    "use",
+    "in",
+    "__inline"
+  ],
+  "author": "caon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nengc/fis-skip-release/issues"
+  },
+  "homepage": "https://github.com/nengc/fis-skip-release#readme"
+}
